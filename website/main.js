@@ -47,6 +47,7 @@ async function loadGallery() {
         iframe.loading = 'lazy';
         iframe.src = item.src;
         iframe.title = item.title || `Interactive chart ${index + 1}`;
+        iframe.scrolling = 'no';
         frame.appendChild(iframe);
       } else {
         const img = document.createElement('img');
