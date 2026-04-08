@@ -1,0 +1,340 @@
+{
+  "items": [
+    {
+      "src": "assets/graphs/cell010_out02.png",
+      "kind": "image",
+      "title": "Missing values overview",
+      "cell": 10,
+      "label": "Chart from analysis step 10"
+    },
+    {
+      "src": "assets/graphs/cell024_out01.html",
+      "kind": "plotly",
+      "title": "Overall churn distribution",
+      "cell": 24,
+      "label": "Chart from analysis step 24"
+    },
+    {
+      "src": "assets/graphs/cell027_out01.png",
+      "kind": "image",
+      "title": "Churn by gender",
+      "cell": 27,
+      "label": "Chart from analysis step 27"
+    },
+    {
+      "src": "assets/graphs/cell028_out01.html",
+      "kind": "plotly",
+      "title": "Churn by contract type",
+      "cell": 28,
+      "label": "Chart from analysis step 28"
+    },
+    {
+      "src": "assets/graphs/cell030_out01.html",
+      "kind": "plotly",
+      "title": "Payment method distribution",
+      "cell": 30,
+      "label": "Chart from analysis step 30"
+    },
+    {
+      "src": "assets/graphs/cell030_out02.html",
+      "kind": "plotly",
+      "title": "Payment method vs churn",
+      "cell": 30,
+      "label": "Chart from analysis step 30"
+    },
+    {
+      "src": "assets/graphs/cell033_out01.html",
+      "kind": "plotly",
+      "title": "Internet service and churn by gender",
+      "cell": 33,
+      "label": "Chart from analysis step 33"
+    },
+    {
+      "src": "assets/graphs/cell034_out01.html",
+      "kind": "plotly",
+      "title": "Churn by dependents",
+      "cell": 34,
+      "label": "Chart from analysis step 34"
+    },
+    {
+      "src": "assets/graphs/cell035_out01.html",
+      "kind": "plotly",
+      "title": "Churn by partner status",
+      "cell": 35,
+      "label": "Chart from analysis step 35"
+    },
+    {
+      "src": "assets/graphs/cell036_out01.html",
+      "kind": "plotly",
+      "title": "Churn by senior citizen",
+      "cell": 36,
+      "label": "Chart from analysis step 36"
+    },
+    {
+      "src": "assets/graphs/cell037_out01.html",
+      "kind": "plotly",
+      "title": "Churn by online security",
+      "cell": 37,
+      "label": "Chart from analysis step 37"
+    },
+    {
+      "src": "assets/graphs/cell038_out01.html",
+      "kind": "plotly",
+      "title": "Churn by paperless billing",
+      "cell": 38,
+      "label": "Chart from analysis step 38"
+    },
+    {
+      "src": "assets/graphs/cell039_out01.html",
+      "kind": "plotly",
+      "title": "Churn by tech support",
+      "cell": 39,
+      "label": "Chart from analysis step 39"
+    },
+    {
+      "src": "assets/graphs/cell040_out01.html",
+      "kind": "plotly",
+      "title": "Churn by phone service",
+      "cell": 40,
+      "label": "Chart from analysis step 40"
+    },
+    {
+      "src": "assets/graphs/cell041_out01.png",
+      "kind": "image",
+      "title": "Monthly charges by churn",
+      "cell": 41,
+      "label": "Chart from analysis step 41"
+    },
+    {
+      "src": "assets/graphs/cell043_out01.png",
+      "kind": "image",
+      "title": "Total charges by churn",
+      "cell": 43,
+      "label": "Chart from analysis step 43"
+    },
+    {
+      "src": "assets/graphs/cell044_out01.html",
+      "kind": "plotly",
+      "title": "Tenure vs churn",
+      "cell": 44,
+      "label": "Chart from analysis step 44"
+    },
+    {
+      "src": "assets/graphs/cell047_out02.png",
+      "kind": "image",
+      "title": "Feature correlation with churn",
+      "cell": 47,
+      "label": "Chart from analysis step 47"
+    },
+    {
+      "src": "assets/graphs/cell048_out01.png",
+      "kind": "image",
+      "title": "Correlation heatmap",
+      "cell": 48,
+      "label": "Chart from analysis step 48"
+    },
+    {
+      "src": "assets/graphs/cell049_out02.png",
+      "kind": "image",
+      "title": "Feature relationship heatmap",
+      "cell": 49,
+      "label": "Chart from analysis step 49"
+    },
+    {
+      "src": "assets/graphs/cell056_out01.png",
+      "kind": "image",
+      "title": "Tenure distribution",
+      "cell": 56,
+      "label": "Chart from analysis step 56"
+    },
+    {
+      "src": "assets/graphs/cell056_out02.png",
+      "kind": "image",
+      "title": "Monthly charges distribution",
+      "cell": 56,
+      "label": "Chart from analysis step 56"
+    },
+    {
+      "src": "assets/graphs/cell056_out03.png",
+      "kind": "image",
+      "title": "Total charges distribution",
+      "cell": 56,
+      "label": "Chart from analysis step 56"
+    },
+    {
+      "src": "assets/graphs/cell058_out01.png",
+      "kind": "image",
+      "title": "Scaled tenure distribution",
+      "cell": 58,
+      "label": "Chart from analysis step 58"
+    },
+    {
+      "src": "assets/graphs/cell058_out02.png",
+      "kind": "image",
+      "title": "Scaled monthly charges distribution",
+      "cell": 58,
+      "label": "Chart from analysis step 58"
+    },
+    {
+      "src": "assets/graphs/cell058_out03.png",
+      "kind": "image",
+      "title": "Scaled total charges distribution",
+      "cell": 58,
+      "label": "Chart from analysis step 58"
+    },
+    {
+      "src": "assets/graphs/cell066_out01.png",
+      "kind": "image",
+      "title": "Model accuracy comparison",
+      "cell": 66,
+      "label": "Chart from analysis step 66"
+    },
+    {
+      "src": "assets/graphs/cell067_out01.png",
+      "kind": "image",
+      "title": "ROC-AUC comparison",
+      "cell": 67,
+      "label": "Chart from analysis step 67"
+    },
+    {
+      "src": "assets/graphs/cell070_out01.png",
+      "kind": "image",
+      "title": "Best K values for KNN",
+      "cell": 70,
+      "label": "Chart from analysis step 70"
+    },
+    {
+      "src": "assets/graphs/cell074_out01.png",
+      "kind": "image",
+      "title": "Best tree count for random forest",
+      "cell": 74,
+      "label": "Chart from analysis step 74"
+    },
+    {
+      "src": "assets/graphs/cell080_out01.png",
+      "kind": "image",
+      "title": "Confusion matrix: Logistic Regression",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out02.png",
+      "kind": "image",
+      "title": "Confusion matrix: SVM (Linear)",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out03.png",
+      "kind": "image",
+      "title": "Confusion matrix: K-Nearest Neighbours",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out04.png",
+      "kind": "image",
+      "title": "Confusion matrix: Kernel SVM",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out05.png",
+      "kind": "image",
+      "title": "Confusion matrix: Naive Bayes",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out06.png",
+      "kind": "image",
+      "title": "Confusion matrix: Decision Tree",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out07.png",
+      "kind": "image",
+      "title": "Confusion matrix: Random Forest",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out08.png",
+      "kind": "image",
+      "title": "Confusion matrix: AdaBoost",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out09.png",
+      "kind": "image",
+      "title": "Confusion matrix: Gradient Boost",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell080_out10.png",
+      "kind": "image",
+      "title": "Confusion matrix: Voting Classifier",
+      "cell": 80,
+      "label": "Chart from analysis step 80"
+    },
+    {
+      "src": "assets/graphs/cell090_out01.png",
+      "kind": "image",
+      "title": "ROC curve: Logistic Regression",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    },
+    {
+      "src": "assets/graphs/cell090_out02.png",
+      "kind": "image",
+      "title": "ROC curve: K-Nearest Neighbours",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    },
+    {
+      "src": "assets/graphs/cell090_out03.png",
+      "kind": "image",
+      "title": "ROC curve: Naive Bayes",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    },
+    {
+      "src": "assets/graphs/cell090_out04.png",
+      "kind": "image",
+      "title": "ROC curve: Decision Tree",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    },
+    {
+      "src": "assets/graphs/cell090_out05.png",
+      "kind": "image",
+      "title": "ROC curve: Random Forest",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    },
+    {
+      "src": "assets/graphs/cell090_out06.png",
+      "kind": "image",
+      "title": "ROC curve: AdaBoost",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    },
+    {
+      "src": "assets/graphs/cell090_out07.png",
+      "kind": "image",
+      "title": "ROC curve: Gradient Boost",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    },
+    {
+      "src": "assets/graphs/cell090_out08.png",
+      "kind": "image",
+      "title": "ROC curve: Voting Classifier",
+      "cell": 90,
+      "label": "Chart from analysis step 90"
+    }
+  ]
+}

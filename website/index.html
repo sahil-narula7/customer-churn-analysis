@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Customer Churn Analysis</title>
+  <meta name="description" content="Customer churn analysis project by Sahil Narula with insights, model evaluation, and a complete chart gallery." />
+  <title>Customer Churn Analysis | Sahil Narula</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
@@ -14,41 +15,65 @@
   <div class="bg-orb orb-2"></div>
 
   <header class="hero">
-    <p class="eyebrow">Machine Learning Project</p>
-    <h1>Customer Churn Analysis</h1>
-    <p class="subtitle">
-      A full churn analysis pipeline with EDA, feature engineering, model comparison,
-      and tuned ensemble classifiers.
-    </p>
-    <div class="hero-actions">
-      <a class="btn btn-primary" href="https://github.com/your-username/your-repo" target="_blank" rel="noreferrer">View GitHub Repo</a>
-      <a class="btn btn-secondary" href="https://github.com/your-username/your-repo/blob/main/Customer%20churn%20prediction.ipynb" target="_blank" rel="noreferrer">Open Notebook</a>
+    <div class="hero-copy">
+      <p class="eyebrow">Machine Learning Project</p>
+      <h1>Customer Churn Analysis</h1>
+      <p class="subtitle">
+        Built by Sahil Narula. This website explains why customers leave, what the data says,
+        and what I did to study the problem in a way that is easy to follow.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="https://github.com/sahil-narula7/customer-churn-analysis" target="_blank" rel="noreferrer">View GitHub Repo</a>
+        <a class="btn btn-secondary" href="#gallery">See the Charts</a>
+      </div>
+      <div class="hero-meta">
+        <div><strong>48</strong><span>charts from the notebook</span></div>
+        <div><strong>10+</strong><span>models compared</span></div>
+        <div><strong>Netlify</strong><span>easy web sharing</span></div>
+      </div>
     </div>
+    <aside class="hero-panel">
+      <p>What this website shows</p>
+      <ul>
+        <li>Why customers leave and what it means for the business</li>
+        <li>The main patterns I found in the data</li>
+        <li>Every chart from the analysis notebook</li>
+        <li>A simple visual summary anyone can understand</li>
+      </ul>
+    </aside>
   </header>
 
   <main class="content">
     <section class="card reveal">
-      <h2>Project Highlights</h2>
-      <ul>
-        <li>Exploratory analysis of customer demographics, contracts, and service usage.</li>
-        <li>Preprocessing with encoding and scaling for robust model training.</li>
-        <li>Benchmarking Logistic Regression, SVM, KNN, Naive Bayes, Random Forest, AdaBoost, and Gradient Boosting.</li>
-        <li>Hyperparameter tuning with cross-validation and ROC-AUC optimization.</li>
-      </ul>
-    </section>
-
-    <section class="card reveal">
-      <h2>Modeling Workflow</h2>
-      <div class="timeline">
-        <div><span>01</span> Data Cleaning</div>
-        <div><span>02</span> Feature Encoding</div>
-        <div><span>03</span> Model Training</div>
-        <div><span>04</span> Evaluation & Tuning</div>
+      <h2>What I did and why</h2>
+      <div class="highlights-grid">
+        <div>
+          <h3>What I did</h3>
+          <p>I cleaned the data, looked for patterns, compared several models, and tuned the better ones.</p>
+        </div>
+        <div>
+          <h3>What I got</h3>
+          <p>A complete churn analysis with clear findings and a website that presents the work in a simple way.</p>
+        </div>
+        <div>
+          <h3>Why it matters</h3>
+          <p>It helps show which customers are more likely to leave so a business can focus on keeping them.</p>
+        </div>
       </div>
     </section>
 
     <section class="card reveal">
-      <h2>Tech Stack</h2>
+      <h2>How the analysis was done</h2>
+      <div class="timeline">
+        <div><span>01</span> Clean the data</div>
+        <div><span>02</span> Study the patterns</div>
+        <div><span>03</span> Compare models</div>
+        <div><span>04</span> Improve the best ones</div>
+      </div>
+    </section>
+
+    <section class="card reveal">
+      <h2>Tools I used</h2>
       <div class="tags">
         <span>Python</span>
         <span>Pandas</span>
@@ -61,10 +86,29 @@
         <span>Seaborn</span>
       </div>
     </section>
+
+    <section class="card reveal insight-card">
+      <div>
+        <h2>What the charts say</h2>
+        <p>People on monthly plans, customers with certain billing habits, and users with shorter tenure are more likely to churn.</p>
+      </div>
+      <div class="insight-stat">
+        <strong>Full visual story</strong>
+        <span>Every chart from the notebook is shown below in a simple gallery.</span>
+      </div>
+    </section>
+
+    <section class="gallery-section reveal" id="gallery">
+      <div class="section-heading">
+        <h2>Chart Gallery</h2>
+        <p>These charts explain the work step by step using simple titles and the exact outputs from the notebook.</p>
+      </div>
+      <div id="gallery-grid" class="gallery-grid" aria-live="polite"></div>
+    </section>
   </main>
 
   <footer>
-    <p>Built by Sahil Narula • Deployed on Netlify</p>
+    <p>Built by Sahil Narula • Customer Churn Analysis • Netlify-ready static site</p>
   </footer>
 
   <script src="main.js"></script>
