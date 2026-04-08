@@ -6,7 +6,7 @@ This project was built end-to-end by **Sahil Narula**, covering data cleaning, e
 
 ## Live Website
 
-- Netlify URL: https://your-site-name.netlify.app
+- Netlify URL: https://churnanalysis07.netlify.app/
 
 ## What I Did
 
